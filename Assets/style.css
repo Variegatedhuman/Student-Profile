@@ -1,0 +1,56 @@
+
+
+
+
+header {
+
+  text-align: center;
+  font-size: 50px;
+  background-color: rgb(227, 203, 255);
+}
+
+
+.lesson {
+  background-color: lemonchiffon;
+}
+
+.title {
+  color: rgb(0, 0, 0);
+  text-shadow: 3px 1px #e9fa51;
+}
+
+#email {
+  background-color: rgb(202, 252, 122);
+  
+}
+
+#github {
+  background-color: rgb(255, 158, 158);
+}
+
+#portfolio {
+  background-color: rgb(181, 173, 255);
+}
+
+body 
+{
+
+  background-color: beige;
+}
+
+section {
+
+  
+  padding-left: 400px;
+  padding-right: 400px;
+  text-align: center;
+  background-color: rgb(227, 203, 255);
+  font-size: 30px;
+  padding-bottom: 5px;
+  
+  
+  
+  
+}
+
+
